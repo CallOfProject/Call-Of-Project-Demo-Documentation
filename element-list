@@ -1,0 +1,13 @@
+callofproject.dev.authentication
+callofproject.dev.authentication.config
+callofproject.dev.authentication.config.kafka
+callofproject.dev.authentication.controller
+callofproject.dev.authentication.dto
+callofproject.dev.authentication.dto.admin
+callofproject.dev.authentication.dto.auth
+callofproject.dev.authentication.dto.client
+callofproject.dev.authentication.dto.environments
+callofproject.dev.authentication.dto.user_profile
+callofproject.dev.authentication.mapper
+callofproject.dev.authentication.service
+callofproject.dev.authentication.util
